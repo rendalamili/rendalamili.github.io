@@ -3,8 +3,6 @@ logo: "images/person-logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   IT student at UniSA
   <br><br>
-  # Second description 
-  <br><br>
   <a href="https://www.linkedin.com/in/rendalamili/">View My LinkedIn Profile</a> 
   <a href="https://github.com/rendalamili">View My GitHub Profile</a> 
 remote_theme: pages-themes/minimal@v0.2.0

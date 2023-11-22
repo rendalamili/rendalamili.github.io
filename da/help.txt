@@ -1,0 +1,4 @@
+Refer to https://chriskhanhtran.github.io/_posts/2020-01-13-portfolio-tutorial/ for guide
+Refer to https://analytics.google.com/analytics/web/#/provision/create for google analytics 
+
+Add projects as html files and links to this folder 
